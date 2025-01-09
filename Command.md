@@ -108,6 +108,3 @@ Checkout a file from a previous commit: git checkout <commit-hash> <file-name>
 Get help with Git commands: git help
 
 Get help for a specific Git command: git help <command>
-
-
-
