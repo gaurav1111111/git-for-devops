@@ -6,3 +6,5 @@ Includes:
 
 1. Vidoes
 2. Tutorial
+3. Tricks
+
